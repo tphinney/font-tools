@@ -1,4 +1,4 @@
-# This script takes a set of designed denominator glyphs with names ending 
+# This FontLab Studio 5 script takes a set of designed denominator glyphs with names ending 
 # in ".dnom" and creates new shifted glyphs referencing the originals as
 # composites, with names ending ".numr", ".subs" and ".sups"
 
