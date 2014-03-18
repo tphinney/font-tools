@@ -12,7 +12,7 @@ def printCode(g, index):
     return
   dropDot = glyphs[index].name.split(".")[0]
   inputNames = dropDot.replace("_"," ")
-  if inputNames = glyphs[index].name:
+  if len(glyphs[index].name.split(".")) == 1:
   	return
   print "  sub", inputNames, "by", glyphs[index].name , ";"
 
