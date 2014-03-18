@@ -19,7 +19,7 @@ def printCode(g):
 # separate ligature components:
   ligSplit = dropDot.replace("_"," ")
 # if neither of these substitutions did anything, exit function and don't print the replacement code
-  if dropDot == g.name and ligSplit == g.name.split(".")[0] :
+  if dropDot == g.name and ligSplit == dropDot:
   	return
 # hey, let's print the glyph replacement code now!
   print "  sub", ligSplit, "by", g.name , ";"
