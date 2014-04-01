@@ -1,15 +1,15 @@
-%%FONTLAB ENCODING: 94231840; Adobe Latin 4
+%%FONTLAB ENCODING: 9423184!; Adobe Latin 4
 %%GROUP:OpenType Adobe
 %%Source: Adobe
-%%Release: 2014-03-21
+%%Release: 2014-03-31
 %
-% Total number of characters: 616 (including 2 with no pre-composed forms)
+% Total number of glyphs: 619 (was 616; including 2 with no pre-composed forms) + .notdef
 %
-% Number of characters added (to Adobe Latin 3): 287
+% Number of glyphs added (to Adobe Latin 3): 288 (was 287)
 % (including 2 with no pre-composed forms)
-% Next larger character set: Adobe Latin 5
+% Next larger glyph set: Adobe Latin 5
 %
-% AL-4 is the character set that will be used for future mega-families on the scale of
+% AL-4 is the glyph set that will be used for future mega-families on the scale of
 % Hypatia Sans Pro, Arno Pro and Garamond Premier Pro. Not all of Adobe's new Western
 % typefaces will necessarily be AL-4, although we expect many or most will be.
 %
@@ -22,13 +22,28 @@
 %
 % Inherited from AL-1/AL-2:
 % Afrikaans, Basque, Breton, Catalan (without the l-dot, added in Adobe Latin 3),
-% Danish, Dutch, English, Finnish, French, Gaelic, German, Icelandic, Indonesian,
-% Irish, Italian, Norwegian, Portuguese, Sami, Spanish, Swahili and Swedish.
+% Danish, Dutch, English, Faroese, Finnish, French, Gaelic, German, Icelandic, 
+% Indonesian, Irish, Italian, Javanese (Latin), Malay (Latin), Norwegian, Portuguese, 
+% Sami (Southern), Spanish, Swahili, Swedish, and Walloon.
 %
 % AL-3 added:
-% Croatian (Latin), Czech, Estonian, Hungarian, Latvian, Lithuanian,
-% Polish, Romanian, Serbian (Latin), Slovak, Slovenian and Turkish.
+% Croatian(Latin), Czech, Estonian, Gagauz(Latin), Hungarian,
+% Kashubian, Latvian, Lithuanian, Moldovan (Latin), Polish, Romanian (Latin), 
+% Sami (Northern, Inari, and Lule), Serbian(Latin), Silesian, Sorbian, Slovak, 
+% Slovenian and Turkish.
+% Note: Lithuanian retains the dot in a lowercase i when followed by accents 
+% (refer to http://www.unicode.org/Public/UNIDATA/SpecialCasing.txt).
 %
+% Later revisions to AL-4 added the Indian rupee (uni20B9), and made additions
+% and glyph name changes to parallel those made to AL-3:
+% adding the Russian ruble (uni20BD) and Turkish lira (uni20BA) symbols,
+% renamed the Scedilla/scedilla uni015E/uni015F, and Scommaaccent/scommaaccent
+% to uni0218/uni0219, and disambiguated the Tcedilla/tcedilla as uni0162, uni0163
+% (no longer naming them Tcommaaccent/tcommaaccent in addition to 
+% the appropriate uni-named glyphs).
+% 
+% 
+.notdef
 space
 exclam
 quotedbl
@@ -306,12 +321,12 @@ Sacute
 sacute
 Scircumflex
 scircumflex
-Scedilla
-scedilla
+uni015E
+uni015F
 Scaron
 scaron
-Tcommaaccent
-tcommaaccent
+uni0162
+uni0163
 Tcaron
 tcaron
 Utilde
@@ -361,8 +376,8 @@ uni01DB
 uni01DC
 Gcaron
 gcaron
-Scommaaccent
-scommaaccent
+uni0218
+uni0219
 uni021A
 uni021B
 uni0237
@@ -600,6 +615,9 @@ Euro
 uni20B1
 uni20B2
 uni20B5
+uni20B9
+uni20BA
+uni20BD
 uni2113
 uni2117
 uni2120
