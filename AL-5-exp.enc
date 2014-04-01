@@ -1,27 +1,44 @@
-%%FONTLAB ENCODING: 94231850; Adobe Latin 5 expanded
+%%FONTLAB ENCODING: 94231851; Adobe Latin 5
 %%GROUP:OpenType Adobe
 %%Source: Adobe
-%%Release: 2014-03-28
+%%Release: 2014-03-31
 %
-% Total number of characters: 1119 (including 117 with no pre-composed forms in Unicode)
+% Total number of glyphs: 1122
+%      (was 1119; including 117 with no pre-composed forms in Unicode)
 % This version of the data uses pre-composed forms for those 117 glyphs, 
-% instead of relying on mark/mkmk for dynamic composition of those forms.
-% Probably you would use 'ccmp' to access those precomposed glyphs.
+% instead of relying on mark/mkmk for dynamic composition of those glyphs.
+% Probably you would use 'ccmp' to access these newly-composed glyphs.
 %
-% Number of characters added (to Adobe Latin 4): 502 
+% Number of glyphs added (to Adobe Latin 4): 502
 % (including 115 with no pre-composed forms)
 %
 % AL-5 primarily adds support for special characters needed for scholarly purposes, 
 % transliterations, etc. It also includes more symbols and other unusual characters.
-% 
-% Inherited from AL-1/AL-2:
-% Afrikaans, Basque, Breton, Catalan (without the l-dot, added in Adobe Latin 3),
-% Danish, Dutch, English, Finnish, French, Gaelic, German, Icelandic, Indonesian,
-% Irish, Italian, Norwegian, Portuguese, Sami, Spanish, Swahili and Swedish.
 %
-% Inherited from AL-3:
-% Croatian (Latin), Czech, Estonian, Hungarian, Latvian, Lithuanian,
-% Polish, Romanian, Serbian (Latin), Slovak, Slovenian and Turkish.
+% Later revisions to AL-5 added the inherited AL-3 and AL-4 changes.
+% AL-4 added the Indian rupee (uni20B9)
+% AL-3 added the Russian ruble (uni20BD) and Turkish lira (uni20BA) symbols,
+% renamed the Scedilla/scedilla uni015E/uni015F, and Scommaaccent/scommaaccent
+% to uni0218/uni0219, and disambiguated the Tcedilla/tcedilla as uni0162, uni0163
+% (no longer naming them Tcommaaccent/tcommaaccent in addition to 
+% the appropriate uni-named glyphs).
+% Also added explicit .notdef
+% 
+% LANGUAGE COVERAGE
+%
+% Inherited from AL-1+:
+% Afrikaans, Basque, Breton, Catalan (without the l-dot, added in Adobe Latin 3),
+% Danish, Dutch, English, Faroese, Finnish, French, Gaelic, German, Icelandic, 
+% Indonesian, Irish, Italian, Javanese (Latin), Malay (Latin), Norwegian, Portuguese, 
+% Sami (Southern), Spanish, Swahili, Swedish, and Walloon.
+%
+% Inherited from AL-3+:
+% Croatian(Latin), Czech, Estonian, Gagauz(Latin), Hungarian,
+% Kashubian, Latvian, Lithuanian, Moldovan (Latin), Polish, Romanian (Latin), 
+% Sami (Northern, Inari, and Lule), Serbian(Latin), Silesian, Sorbian, Slovak, 
+% Slovenian and Turkish.
+% Note: Lithuanian retains the dot in a lowercase i when followed by accents 
+% (refer to http://www.unicode.org/Public/UNIDATA/SpecialCasing.txt).
 %
 % Inherited from AL-4: Afar, Azerbaijani, Belarusian (Latin),
 % Chichewa, Croatian (Latin), Gikuyu, Greenlandic, Guarani, Igo/Igbo, Kuskokwim,
@@ -30,6 +47,7 @@
 % Welsh, isiXhosa, Yoruba, and isiZulu. For Latin-based transliteration, it supports
 % several schemes for Indic and Arabic, as well as Cyrillic and Pinyin Chinese.
 %
+.notdef
 space
 exclam
 quotedbl
@@ -315,12 +333,12 @@ Sacute
 sacute
 Scircumflex
 scircumflex
-Scedilla
-scedilla
+uni015E
+uni015F
 Scaron
 scaron
-Tcommaaccent
-tcommaaccent
+uni0162
+uni0163
 Tcaron
 tcaron
 Tbar
@@ -418,8 +436,8 @@ AEacute
 aeacute
 Oslashacute
 oslashacute
-Scommaaccent
-scommaaccent
+uni0218
+uni0219
 uni021A
 uni021B
 uni021C
@@ -961,6 +979,9 @@ uni20B1
 uni20B2
 uni20B3
 uni20B5
+uni20B9
+uni20BA
+uni20BD
 uni2105
 uni2113
 uni2117
@@ -1032,6 +1053,9 @@ uni2713
 uni2752
 fi
 fl
+%  All glyphs after this point could instead be created by dynamic mark attachment
+% using 'mark' and 'mkmk' GPOS features.
+% If created as precomposed, they could be accessed via the 'ccmp' GSUB feature.
 G_tildecomb
 M_uni0300
 M_uni0302
