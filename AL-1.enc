@@ -1,20 +1,29 @@
-%%FONTLAB ENCODING: 94231810; Adobe Latin 1
+%%FONTLAB ENCODING: 94231811; Adobe Latin 1
 %%GROUP:OpenType Adobe
 %%Source: Adobe
 %%Release: 2014-03-21
 %
 % Also known as: ISO-Adobe
 % 
-% Total number of characters: 229
-% Next larger character set: Adobe Latin 2, 250 characters
+% Total number of glyphs: 229 + .notdef
+% Next larger glyph set: Adobe Latin 2, 250 glyphs
 % 
-% AL-1 is the original character set we ended up with for Type 1 fonts, including the 
-% later addition of the euro, for 229 glyphs plus .notdef. It covers major Western 
-% European Latin languages (a.k.a. "Roman" languages) and some minor ones: Afrikaans,
-% Basque, Breton, Catalan (without the l-dot, added in Adobe Latin 3), Danish, Dutch,
-%  English, Finnish, French, Gaelic, German, Icelandic, Indonesian, Irish, Italian,
-% Norwegian, Portuguese, Sami, Spanish, Swahili and Swedish.
+% AL-1 is the original glyph set we ended up with 
+% for Type 1 fonts, including the later addition of the euro, 
+% for 229 glyphs plus .notdef. It covers 
+% major Western European Latin languages (a.k.a. "Roman" languages) 
+% and some minor ones: Afrikaans, Basque, Breton, Catalan (without 
+% the l-dot, added in Adobe Latin 3), Danish, Dutch, English, Faroese, 
+% Finnish, French, Gaelic, German, Icelandic, Indonesian, Irish, 
+% Italian, Javanese (Latin), Malay (Latin), Norwegian, Portuguese, 
+% Sami (Southern), Spanish, Swahili, Swedish, and Walloon.
 %
+% (Note that the term "Roman" is to be avoided! It has multiple
+% independent and often conflicting meanings in typography: 
+% upright vs italic/oblique, single-byte Latin vs CE/other, or in
+% the style of classical Roman lettering vs not.)
+%
+.notdef
 space
 exclam
 quotedbl
