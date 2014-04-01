@@ -1,23 +1,34 @@
-%%FONTLAB ENCODING: 94231830; Adobe Latin 3
+%%FONTLAB ENCODING: 94231831; Adobe Latin 3
 %%GROUP:OpenType Adobe
 %%Source: Adobe
-%%Release: 2014-03-21
+%%Release: 2014-03-31
 %
-% Total number of characters: 329
-% Number of characters added (to Adobe Latin 2): 79
-% Next larger character set: Adobe Latin 4, 616 characters
+% Total number of glyphs: 331 (was 329) + .notdef
+% Number of glyphs added (to Adobe Latin 2): 81 (was 79)
+% Next larger character set: Adobe Latin 4, 619 glyphs (was 616)
 %
 % AL-3, 329 characters + .notdef, is the union of the AL-2 character set and the Adobe CE
 % character set, which includes major Latin-based Central European (CE) languages.
 % AL-3 is the minimum character set for western "Pro" fonts.
 %
 % AL-3 starts by covering the same languages as AL-1/AL-2:
-% Afrikaans, Basque, Breton, Catalan (without the l-dot, added in Adobe Latin 3),
-% Danish, Dutch, English, Finnish, French, Gaelic, German, Icelandic, Indonesian,
-% Irish, Italian, Norwegian, Portuguese, Sami, Spanish, Swahili and Swedish.
-% AL-3 also adds: Croatian (Latin), Czech, Estonian, Hungarian, Latvian, Lithuanian,
+% Afrikaans, Basque, Breton, Catalan (without 
+% the l-dot, added in Adobe Latin 3), Danish, Dutch, English, Faroese, 
+% Finnish, French, Gaelic, German, Icelandic, Indonesian, Irish, 
+% Italian, Javanese (Latin), Malay (Latin), Norwegian, Portuguese, 
+% Sami (Southern), Spanish, Swahili, Swedish, and Walloon.
+%
+% AL-3 then adds: Croatian (Latin), Czech, Estonian, Hungarian, Latvian, Lithuanian,
 % Polish, Romanian, Serbian (Latin), Slovak, Slovenian and Turkish.
 %
+% Later revisions to AL-3 added the Russian ruble (uni20BD) and
+% Turkish lira (uni20BA) symbols, renamed the Scedilla/scedilla uni015E/uni015F,
+% and Scommaaccent/scommaaccent to uni0218/uni0219, and disambiguated the
+% Tcedilla/tcedilla as uni0162, uni0163 
+% (no longer naming them Tcommaaccent/tcommaaccent in addition to 
+% the appropriate uni-named glyphs).
+% 
+.notdef
 space
 exclam
 quotedbl
@@ -271,12 +282,12 @@ Rcaron
 rcaron
 Sacute
 sacute
-Scedilla
-scedilla
+uni015E
+uni015F
 Scaron
 scaron
-Tcommaaccent
-tcommaaccent
+uni0162
+uni0163
 Tcaron
 tcaron
 Umacron
@@ -295,8 +306,8 @@ zdotaccent
 Zcaron
 zcaron
 florin
-Scommaaccent
-scommaaccent
+uni0218
+uni0219
 uni021A
 uni021B
 circumflex
@@ -326,6 +337,8 @@ guilsinglleft
 guilsinglright
 fraction
 Euro
+uni20BA
+uni20BD
 uni2113
 trademark
 uni2126
