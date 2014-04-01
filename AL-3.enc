@@ -18,8 +18,12 @@
 % Italian, Javanese (Latin), Malay (Latin), Norwegian, Portuguese, 
 % Sami (Southern), Spanish, Swahili, Swedish, and Walloon.
 %
-% AL-3 then adds: Croatian (Latin), Czech, Estonian, Hungarian, Latvian, Lithuanian,
-% Polish, Romanian, Serbian (Latin), Slovak, Slovenian and Turkish.
+% AL-3 then adds:  Croatian(Latin), Czech, Estonian, Gagauz(Latin), Hungarian,
+% Kashubian, Latvian, Lithuanian, Moldovan (Latin), Polish, Romanian (Latin), 
+% Sami (Northern, Inari, and Lule), Serbian(Latin), Silesian, Sorbian, Slovak, 
+% Slovenian and Turkish.
+% Note: Lithuanian retains the dot in a lowercase i when followed by accents 
+% (refer to http://www.unicode.org/Public/UNIDATA/SpecialCasing.txt).
 %
 % Later revisions to AL-3 added the Russian ruble (uni20BD) and
 % Turkish lira (uni20BA) symbols, renamed the Scedilla/scedilla uni015E/uni015F,
