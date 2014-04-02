@@ -1,0 +1,228 @@
+%%FONTLAB ENCODING: 03322920; Adobe Cyrillic 2
+%%GROUP:OpenType Adobe
+%%Source: Adobe
+%%Release: 2014-04-01
+%
+% Total number of glyphs: 155
+%
+% Number of glyphs added (to Adobe Cyrillic 1): 48
+%
+% Next larger glyph set: Adobe Cyrillic 3, 203/255 glyphs
+%
+% This character set is based on the analysis Thomas Phinney did of Cyrillic-based 
+% languages, which results he posted on the Adobe blog at 
+% http://blogs.adobe.com/typblography/2006/08/defining_an_ext.html. 
+% The initial plan was to support all the languages up to Group D (inclusive) – 
+% thus the sentence "That's everything we have tentatively decided to do." 
+% "There are several more groups that we considered, but are not going to do at this time" 
+% --, and that's what got included in Arno Pro (v1.011), the family being developed at 
+% the time. In the meantime, while Thomas designed his own Hypatia Sans and as he
+% concluded the analysis, he decided to support further groups because he considered 
+% it was not too much additional work. Subsequently, Robert Slimbach based the 
+% character sets of his new families (Adobe Clean, Adobe Clean Serif, Adobe Text) on 
+% Hypatia's, and this way it became the de facto set.
+%
+% Adobe Cyrillic 2 supports three additional characters: Ӕ, ӕ (Group I), 
+% and ₸ the Kazakhstani tenge (₸ ). However, after further analysis we decided 
+% to drop the 4 characters (Ҝ, ҝ, Ҹ, ҹ ) belonging to Group H 
+% (Azerbaijani/Azeri and Talysh); both these languages are not actively using 
+% a Cyrillic alphabet, the characters are complicated to design, and they're not used 
+% in any other language.
+%
+% The additional languages supported by Adobe Cyrillic 2 are: Abaza, Adyghe, Agul, 
+% Avar, Bashkir, Buryat, Chechen, Chuvash, Crimean Tatar (Cyrillic), Dargin, Dungan, 
+% Ingush, Kabardian, Kalmyk, Karakalpak, Kazakh, Khinalugh, Komi, Kyrgyz (Cyrillic), 
+% Lak, Lezgian, Moldovan (Cyrillic), Mongolian (Cyrillic), Ossetian, Rutul, Tabasaran, 
+% Tajik, Tat, Tatar, Turkmen, Tuvan, Uyghur (Cyrillic) and Uzbek (Cyrillic).
+%
+% This set includes the coverage from Adobe Cyrillic 1: Balkar, Belarusian (Cyrillic), 
+% Bulgarian, Erzya, Karachay, Kumyk, Macedonian, Moksha, Nanai, Nogai, Russian, 
+% Rusyn, Serbian (Cyrillic) and Ukrainian.
+%
+uni0400
+uni0401
+uni0402
+uni0403
+uni0404
+uni0405
+uni0406
+uni0407
+uni0408
+uni0409
+% uni0409 Upright and italic styles requires alternate form for Bulgarian
+uni040A
+uni040B
+uni040C
+uni040D
+uni040E
+uni040F
+uni0410
+uni0411
+uni0412
+uni0413
+uni0414
+uni0415
+uni0416
+uni0417
+uni0418
+uni0419
+uni041A
+uni041B
+% uni041B Upright and italic styles requires alternate form for Bulgarian
+uni041C
+uni041D
+uni041E
+uni041F
+uni0420
+uni0421
+uni0422
+uni0423
+uni0424
+uni0425
+uni0426
+uni0427
+uni0428
+uni0429
+uni042A
+uni042B
+uni042C
+uni042D
+uni042E
+uni042F
+uni0430
+uni0431
+% uni0431 upright and italic styles require alternate form for Serbian and Macedonian
+uni0432
+% uni0432 Upright and italic styles requires alternate form for Bulgarian
+uni0433
+% uni0433 Italic style requires alternate form for Serbian and Macedonian. 
+% Upright style requires alternate form for Bulgarian
+uni0434
+% uni0434 Italic style requires alternate form for Serbian, Macedonian and Bulgarian.
+% Upright style requires alternate form for Bulgarian
+uni0435
+uni0436
+% uni0436 Upright and italic styles require alternate form for Bulgarian
+uni0437
+uni0438
+% uni0438 Upright style requires alternate form for Bulgarian
+uni0439
+% uni0439 Upright style requires alternate form for Bulgarian
+uni043A
+% uni043A Upright and italic styles require alternate form for Bulgarian
+uni043B
+% uni043B Upright and italic styles require alternate form for Bulgarian
+uni043C
+uni043D
+uni043E
+uni043F
+% uni043F Italic style requires alternate form for Serbian and Macedonian. 
+% Upright style requires alternate form for Bulgarian
+uni0440
+uni0441
+uni0442
+% uni0442 Italic style requires alternate form for Serbian and Macedonian.
+% Upright style requires alternate form for Bulgarian
+uni0443
+uni0444
+uni0445
+uni0446
+% uni0446 Upright style requires alternate form for Bulgarian
+uni0447
+uni0448
+% uni0448 Upright style requires alternate form for Bulgarian
+uni0449
+% uni0449 Upright style requires alternate form for Bulgarian
+uni044A
+% uni044A Upright style requires alternate form for Bulgarian
+uni044B
+% uni044B Upright style requires alternate form for Bulgarian
+uni044C
+% uni044C Upright style requires alternate form for Bulgarian
+uni044D
+uni044E
+% uni044E Upright and italic styles require alternate form for Bulgarian
+uni044F
+uni0450
+uni0451
+uni0452
+uni0453
+% uni0453 Upright style requires alternate form for Bulgarian
+uni0454
+uni0455
+uni0456
+uni0457
+uni0458
+uni0459
+% uni0459 Upright and italic styles require alternate form for Bulgarian
+uni045A
+% uni045A Upright and italic styles require alternate form for Bulgarian
+uni045B
+uni045C
+% uni045C Upright and italic styles require alternate form for Bulgarian
+uni045D
+% uni045D Upright style requires alternate form for Bulgarian
+uni045E
+uni045F
+uni0462
+uni0463
+uni0472
+uni0473
+uni0474
+uni0475
+uni0490
+uni0491
+uni0492
+uni0493
+uni0496
+uni0497
+uni0498
+uni0499
+uni049A
+uni049B
+uni04A0
+uni04A1
+uni04A2
+uni04A3
+uni04AA
+uni04AB
+uni04AE
+uni04AF
+uni04B0
+uni04B1
+uni04B2
+uni04B3
+uni04B6
+uni04B7
+uni04BA
+uni04BB
+uni04C0
+uni04C1
+uni04C2
+uni04CF
+uni04D0
+uni04D1
+uni04D4
+uni04D5
+uni04D6
+uni04D7
+uni04D8
+uni04D9
+uni04E2
+uni04E3
+uni04E6
+uni04E7
+uni04E8
+uni04E9
+uni04EE
+uni04EF
+uni04F2
+uni04F3
+uni20AE
+uni20B4
+% uni20B4 Ukrainian hryvnia sign was added later
+uni20B8
+% uni20B8 Kazakhstani tenge sign was added later
+uni20BD
+% uni20BD Russian ruble sign was added later
+uni2116
