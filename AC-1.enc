@@ -1,0 +1,167 @@
+%%FONTLAB ENCODING: 03322910; Adobe Cyrillic 1
+%%GROUP:OpenType Adobe
+%%Source: Adobe
+%%Release: 2014-04-01
+%
+% Total number of glyphs: 107
+%
+% Next larger glyph set: Adobe Cyrillic 2, 155 glyphs
+%
+% The core of this set, which became the basis of the Cyrillic block in the Unicode 
+% Standard and the character set used in Minion Cyrillic (Type 1), was defined by 
+% David Birnbaum (Slavic) and Thomas Milo (Turkic and other non-Slavic former Soviet 
+% languages) who worked for Bur Davis (Adobe US) and Tony Arcari (Adobe Europe). 
+% Thomas Milo's report written between 1988 and 1990. This core was later complemented 
+% by seven characters Ѣ, ѣ, Ѳ, ѳ, Ѵ, ѵ, ә, and became the character set supported by 
+% most of our (Type 1 and Std/Pro) families with Cyrillic support. 
+% While defining the Adobe Cyrillic 1character set, four more characters were added: 
+% Ѐ, Ѝ, ѐ, ѝ. The character ә was not included in Adobe Cyrillic 1 because it's only 
+% used in languages that require additional characters not covered by this 
+% character set. The Ukrainian hryvnia (₴ ) and the Russian ruble (₽ ) were also 
+% added later.
+% 
+% Adobe at some point (around 2010?) switched its glyph naming scheme for many Cyrillic 
+% characters from afiiXXXX names to uniXXXX names.
+%
+% The languages covered by Adobe Cyrillic 1 are: Balkar, Belarusian (Cyrillic), 
+% Bulgarian, Erzya, Karachay, Kumyk, Macedonian, Moksha, Nanai, Nogai, Russian, 
+% Rusyn, Serbian (Cyrillic) and Ukrainian.
+%
+uni0400
+uni0401
+uni0402
+uni0403
+uni0404
+uni0405
+uni0406
+uni0407
+uni0408
+uni0409
+% uni0409 Upright and italic styles requires alternate form for Bulgarian
+uni040A
+uni040B
+uni040C
+uni040D
+uni040E
+uni040F
+uni0410
+uni0411
+uni0412
+uni0413
+uni0414
+uni0415
+uni0416
+uni0417
+uni0418
+uni0419
+uni041A
+uni041B
+% uni041B Upright and italic styles requires alternate form for Bulgarian
+uni041C
+uni041D
+uni041E
+uni041F
+uni0420
+uni0421
+uni0422
+uni0423
+uni0424
+uni0425
+uni0426
+uni0427
+uni0428
+uni0429
+uni042A
+uni042B
+uni042C
+uni042D
+uni042E
+uni042F
+uni0430
+uni0431
+% uni0431 upright and italic styles require alternate form for Serbian and Macedonian
+uni0432
+% uni0432 Upright and italic styles requires alternate form for Bulgarian
+uni0433
+% uni0433 Italic style requires alternate form for Serbian and Macedonian. 
+% Upright style requires alternate form for Bulgarian
+uni0434
+% uni0434 Italic style requires alternate form for Serbian, Macedonian and Bulgarian.
+% Upright style requires alternate form for Bulgarian
+uni0435
+uni0436
+% uni0436 Upright and italic styles require alternate form for Bulgarian
+uni0437
+uni0438
+% uni0438 Upright style requires alternate form for Bulgarian
+uni0439
+% uni0439 Upright style requires alternate form for Bulgarian
+uni043A
+% uni043A Upright and italic styles require alternate form for Bulgarian
+uni043B
+% uni043B Upright and italic styles require alternate form for Bulgarian
+uni043C
+uni043D
+uni043E
+uni043F
+% uni043F Italic style requires alternate form for Serbian and Macedonian. 
+% Upright style requires alternate form for Bulgarian
+uni0440
+uni0441
+uni0442
+% uni0442 Italic style requires alternate form for Serbian and Macedonian.
+% Upright style requires alternate form for Bulgarian
+uni0443
+uni0444
+uni0445
+uni0446
+% uni0446 Upright style requires alternate form for Bulgarian
+uni0447
+uni0448
+% uni0448 Upright style requires alternate form for Bulgarian
+uni0449
+% uni0449 Upright style requires alternate form for Bulgarian
+uni044A
+% uni044A Upright style requires alternate form for Bulgarian
+uni044B
+% uni044B Upright style requires alternate form for Bulgarian
+uni044C
+% uni044C Upright style requires alternate form for Bulgarian
+uni044D
+uni044E
+% uni044E Upright and italic styles require alternate form for Bulgarian
+uni044F
+uni0450
+uni0451
+uni0452
+uni0453
+% uni0453 Upright style requires alternate form for Bulgarian
+uni0454
+uni0455
+uni0456
+uni0457
+uni0458
+uni0459
+% uni0459 Upright and italic styles require alternate form for Bulgarian
+uni045A
+% uni045A Upright and italic styles require alternate form for Bulgarian
+uni045B
+uni045C
+% uni045C Upright and italic styles require alternate form for Bulgarian
+uni045D
+% uni045D Upright style requires alternate form for Bulgarian
+uni045E
+uni045F
+uni0462
+uni0463
+uni0472
+uni0473
+uni0474
+uni0475
+uni0490
+uni0491
+uni20B4
+% uni20B4 Ukrainian hryvnia sign was added later
+uni20BD
+% uni20BD Russian ruble sign was added later
+uni2116
