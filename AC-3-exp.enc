@@ -7,11 +7,11 @@
 %      203 precomposed + 50 that could be done with mark attachment
 %      (the 50 have no pre-composed forms in Unicode)
 %
-% This version of the data uses pre-composed forms for those 52 glyphs, 
+% This version of the data uses pre-composed forms for those 50 glyphs, 
 % instead of relying on mark/mkmk for dynamic composition of those glyphs.
 % Probably you would use 'ccmp' to access these newly-composed glyphs.
 %
-% Number of glyphs added (to Adobe Cyrillic 2): 48 / 100
+% Number of glyphs added (to Adobe Cyrillic 2): 48 / 98
 %
 % The additional languages supported by Adobe Cyrillic 3 are: Abkhaz, Altay, 
 % Azerbaijani (Cyrillic), Gagauz (Cyrillic), Khakas (Cyrillic), Kurdish (Cyrillic), 
