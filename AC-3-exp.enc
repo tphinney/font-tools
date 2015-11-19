@@ -1,17 +1,17 @@
-%%FONTLAB ENCODING: 03322930; Adobe Cyrillic 3
+%%FONTLAB ENCODING: 03423941; Adobe Cyrillic 3
 %%GROUP:OpenType Adobe
 %%Source: Adobe
 %%Release: 2015-11-18
 %
-% Total number of glyphs: 253
-%      203 precomposed + 50 that could be done with mark attachment
-%      (the 50 have no pre-composed forms in Unicode)
+% Total number of glyphs: 251
+%      203 precomposed + 48 that could be done with mark attachment
+%      (the 48 have no pre-composed forms in Unicode)
 %
 % This version of the data uses pre-composed forms for those 50 glyphs, 
 % instead of relying on mark/mkmk for dynamic composition of those glyphs.
 % Probably you would use 'ccmp' to access these newly-composed glyphs.
 %
-% Number of glyphs added (to Adobe Cyrillic 2): 48 / 98
+% Number of glyphs added (to Adobe Cyrillic 2): 48 / 96
 %
 % The additional languages supported by Adobe Cyrillic 3 are: Abkhaz, Altay, 
 % Azerbaijani (Cyrillic), Gagauz (Cyrillic), Khakas (Cyrillic), Kurdish (Cyrillic), 
@@ -269,7 +269,6 @@ uni0404_uni0301
 uni0406_uni0301
 uni0410_uni0300
 uni0410_uni0301
-uni0415_uni0300
 uni0415_uni0301
 uni0418_uni0301
 uni041E_uni0300
@@ -289,7 +288,6 @@ uni042F_uni0300
 uni042F_uni0301
 uni0430_uni0300
 uni0430_uni0301
-uni0435_uni0300
 uni0435_uni0301
 uni0438_uni0301
 uni043E_uni0300
