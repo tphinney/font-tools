@@ -2,16 +2,17 @@
 %%GROUP:OpenType Adobe
 %%Source: Adobe
 %%Release: 2015-11-18
+%%Revised: 2016-12-19
 %
-% Total number of glyphs: 251
-%      203 precomposed + 48 that could be done with mark attachment
+% Total number of glyphs: 253
+%      205 precomposed + 48 that could be done with mark attachment
 %      (the 48 have no pre-composed forms in Unicode)
 %
-% This version of the data uses pre-composed forms for those 50 glyphs, 
+% This version of the data uses pre-composed forms for those 48 glyphs, 
 % instead of relying on mark/mkmk for dynamic composition of those glyphs.
 % Probably you would use 'ccmp' to access these newly-composed glyphs.
 %
-% Number of glyphs added (to Adobe Cyrillic 2): 48 / 96
+% Number of glyphs added (to Adobe Cyrillic 2): 50 / 98
 %
 % The additional languages supported by Adobe Cyrillic 3 are: Abkhaz, Altay, 
 % Azerbaijani (Cyrillic), Gagauz (Cyrillic), Khakas (Cyrillic), Kurdish (Cyrillic), 
@@ -27,6 +28,8 @@
 % Ingush, Kabardian, Kalmyk, Karakalpak, Kazakh, Khinalugh, Komi, Kyrgyz (Cyrillic), 
 % Lak, Lezgian, Moldovan (Cyrillic), Mongolian (Cyrillic), Ossetian, Rutul, Tabasaran, 
 % Tajik, Tat, Tatar, Turkmen, Tuvan, Uyghur (Cyrillic) and Uzbek (Cyrillic).
+%
+% Updated 2016-12-29 to add uni04BE, uni04BF, required for Abkhaz.
 %
 uni0400
 uni0401
@@ -207,6 +210,8 @@ uni04BA
 uni04BB
 uni04BC
 uni04BD
+uni04BE
+uni04BF
 uni04C0
 uni04C1
 uni04C2
